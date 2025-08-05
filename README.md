@@ -1,2 +1,1 @@
-# CSC255_SOS
-Stream of Stream
+Real-time Video Streaming Communication System - A comprehensive networking project implementing peer-to-peer video calling functionality with live streaming capabilities. Built to demonstrate advanced network programming concepts including WebRTC protocols, socket connections, and multimedia data transmission between multiple clients. Features low-latency video encoding/decoding, bandwidth optimization, and cross-platform compatibility for seamless video communication experiences.
